@@ -186,7 +186,7 @@ CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
     "http://localhost:8000",
     "https://webpla-production.up.railway.app",
-    "https://web-production-51ea9.up.railway.app/",
+    "https://web-production-51ea9.up.railway.app",
 
 ]
 
